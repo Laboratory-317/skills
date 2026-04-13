@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Digest Params"
+  short_description: "Parameterized review of recent research"
+  default_prompt: "Use $research-digest-params to prepare a digest from my keywords, output count, and review period."
