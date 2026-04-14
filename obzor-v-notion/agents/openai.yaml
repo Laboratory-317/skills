@@ -1,0 +1,7 @@
+interface:
+  display_name: "Obzor V Notion"
+  short_description: "Import review HTML into Notion"
+  default_prompt: "Use $obzor-v-notion to import a review into Notion; if I do not name a review, use the newest HTML file."
+
+policy:
+  allow_implicit_invocation: true
